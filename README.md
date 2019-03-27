@@ -1,0 +1,4 @@
+# mysql-nodejs-Crud
+
+
+CRUD CON MYSQL Y NODEJS CON SUBIDA DE IMAGENES
